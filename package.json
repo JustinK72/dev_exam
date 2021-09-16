@@ -1,7 +1,7 @@
 {
-  "name": "my-super-cool-awesome-project-app-heroku-node-thing",
+  "name": "dev_exam",
   "version": "1.0.0",
-  "description": "This is a demo Node.js app utilizing Express.js & Angular.js.",
+  "description": "This is a demo Node.js app utilizing Express.js & Angular.js and running through heroku.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/barrycumbie/my-super-cool-awesome-project-app-heroku-node-thing.git"
+    "url": "git+https://github.com/JustinK72/dev_exam"
   },
   "bugs": {
-    "url": "https://github.com/barrycumbie/my-super-cool-awesome-project-app-heroku-node-thing/issues"
+    "url": "https://github.com/JustinK72/dev_exam/issues"
   },
-  "homepage": "https://github.com/barrycumbie/my-super-cool-awesome-project-app-heroku-node-thing#readme"
+  "homepage": "https://github.com/JustinK72/dev_exam#readme"
 }
