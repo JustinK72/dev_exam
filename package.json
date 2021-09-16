@@ -1,5 +1,5 @@
 {
-  "name": "dev_exam",
+  "name": "devexam",
   "version": "1.0.0",
   "description": "This is a demo Node.js app utilizing Express.js & Angular.js and running through heroku.",
   "main": "index.js",
