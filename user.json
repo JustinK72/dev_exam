@@ -1,4 +1,14 @@
 {
-    "name": "tom tom",
-    "car": "thunderbird"
+    "name": "Justin Knight",
+    "github": "jknight72",
+    "repo": "https://github.com/JustinK72/dev_exam",
+    "app": "url to the heroku app you create for this",
+    "skills": [
+        "coding",
+        "steamed hams",
+        "playing guitar",
+        "watching tv",
+        "thinking of skills",
+        "running out of skills"
+    ]
 }
